@@ -4,7 +4,7 @@ Markdown
 ## Project Overview
 This interactive Power BI dashboard provides a comprehensive operational and financial analysis of healthcare patient admissions across three major regional hospitals in 2024. Designed with an executive-ready layout, the report translates 190 patient records into high-level strategic insights regarding billing optimization, clinical bottlenecks, and demographic distributions.
 
-![Dashboard Preview](Hospital%20Analysis%20Dashboard.png) 
+![Dashboard Preview](Hospital%20Analysis%20Dashboard-Blue.png) 
 
 ## Key Business Insights
 * **Revenue Driver:** Heart Disease represents the highest clinical financial footprint, commanding an average billing of **$68.22K**—the highest across all analyzed medical conditions.
