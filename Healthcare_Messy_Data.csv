@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Medical_Condition,Date_of_Admission,Doctor,Hospital,Insurance_Provider,Billing_Amount,Room_Number,Admission_Type,Discharge_Date,Medication,Test_Results
+1,John Smith,45,Male,A+,Diabetes,2024-01-15,Dr. Wilson,Toronto General Hospital,Blue Cross,$12500.50,201,Emergency,2024-01-22,Metformin,Normal
+2,Sarah Johnson,62,Female,O-,Cancer,2024-01-18,Dr. Patel,Mount Sinai Hospital,Aetna,$45000.00,305,Urgent,2024-02-15,Chemotherapy,Abnormal
+3,Mike Brown,,Male,B+,Asthma,2024-02-01,Dr. Lee,Toronto General Hospital,Cigna,$3200.75,102,Elective,2024-02-03,Inhaler,Normal
+4,Emily Davis,34,female,AB-,Obesity,2024-02-10,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$8900.00,410,Elective,2024-02-12,Lipitor,Inconclusive
+5,Robert Wilson,71,Male,O+,Heart Disease,2024-02-14,Dr. Patel,Mount Sinai Hospital,Medicare,$67000.00,501,Emergency,2024-03-01,Aspirin,Abnormal
+6,Lisa Anderson,28,F,A-,Diabetes,2024-02-20,Dr. Chen,Toronto General Hospital,Aetna,$5600.00,203,Urgent,2024-02-25,Metformin,Normal
+7,David Lee,55,Male,B-,Cancer,2024-03-01,Dr. Patel,Mount Sinai Hospital,Blue Cross,$52000.00,307,Emergency,2024-04-10,Chemotherapy,Abnormal
+8,Jennifer Taylor,43,Female,O+,Asthma,2024/03/05,Dr. Wilson,Sunnybrook Hospital,Cigna,$2800.00,105,Elective,2024/03/07,Inhaler,Normal
+9,James Martin,67,MALE,A+,Heart Disease,2024-03-10,Dr. Chen,Toronto General Hospital,Medicare,$71000.50,503,Emergency,2024-03-28,Aspirin,Abnormal
+10,Patricia Garcia,-38,Female,AB+,Obesity,2024-03-15,Dr. Lee,Mount Sinai Hospital,Aetna,$9200.00,412,Elective,2024-03-17,Lipitor,Normal
+11,Christopher White,52,Male,B+,Diabetes,2024-03-20,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$11800.00,205,Urgent,2024-03-26,Metformin,Inconclusive
+12,Amanda Harris,39,Female,O-,Cancer,2024-04-01,Dr. Patel,Toronto General Hospital,Cigna,,302,Emergency,2024-05-01,Chemotherapy,Abnormal
+13,Daniel Clark,48,Male,A+,Asthma,2024-04-05,Dr. Chen,Mount Sinai Hospital,Medicare,$3400.00,108,Elective,2024-04-07,Inhaler,normal
+14,Michelle Lewis,73,Female,B-,Heart Disease,2024-04-10,Dr. Lee,Sunnybrook Hospital,Aetna,$68500.75,505,Emergency,2024-04-30,Aspirin,Abnormal
+15,Kevin Robinson,31,Male,AB+,Obesity,2024-04-15,Dr. Wilson,Toronto General Hospital,Blue Cross,$7600.00,414,elective,2024-04-17,Lipitor,Inconclusive
+16,Nancy Walker,58, Female,O+,Diabetes,2024-04-20,Dr. Patel,Mount Sinai Hospital,Cigna,$13200.00,207,Urgent,2024-04-27,Metformin,Normal
+17,Steven Hall,65,Male,A-,Cancer,2024-05-01,Dr. Chen,Sunnybrook Hospital,Medicare,$49000.00,309,Emergency,2024-06-15,Chemotherapy,ABNORMAL
+18,Karen Allen,41,Female,B+,Asthma,2024-05-05,Dr. Lee,Toronto General Hospital,Aetna,$2900.50,110,Elective,2024-05-07,Inhaler,Normal
+19,,50,Male,O-,Heart Disease,2024-05-10,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$72000.00,507,Emergency,2024-05-30,Aspirin,Abnormal
+20,Betty Young,36,Female,AB-,Obesity,2024-05-15,Dr. Patel,Sunnybrook Hospital,Cigna,$8100.00,416,Elective,2024-05-17,Lipitor,Normal
+21,George King,69,Male,A+,Diabetes,2024-05-20,Dr. Chen,Toronto General Hospital,Medicare,$14500.00,209,Urgent,2024-05-28,Metformin,Inconclusive
+22,Dorothy Wright,47,Female,B-,Cancer,2024-06-01,Dr. Lee,Mount Sinai Hospital,Aetna,$51000.00,311,Emergency,2024-07-10,Chemotherapy,Abnormal
+23,Edward Scott,54,Male,O+,Asthma,2024-06-05,Dr. Wilson,sunnybrook hospital,Blue Cross,$3100.00,112,Elective,2024-06-07,Inhaler,Normal
+24,Sandra Green,77,Female,AB+,Heart Disease,2024-06-10,Dr. Patel,Toronto General Hospital,Cigna,$69000.00,509,Emergency,2024-07-01,Aspirin,Abnormal
+25,Brian Adams,33,male,A-,Obesity,2024-06-15,Dr. Chen,Mount Sinai Hospital,Medicare,$8500.00,418,Elective,2024-06-17,Lipitor,Normal
+26,Margaret Baker,61,Female,B+,Diabetes,2024-06-20,Dr. Lee,Sunnybrook Hospital,Aetna,$12000.00,211,Urgent,2024-06-28,Metformin,Normal
+27,Jason Nelson,46,Male,O-,Cancer,2024-07-01,Dr. Wilson,Toronto General Hospital,Blue Cross,$48000.00,313,Emergency,2024-08-15,Chemotherapy,Abnormal
+28,Sharon Carter,40,Female,AB-,Asthma,2024-07-05,Dr. Patel,Mount Sinai Hospital,Cigna,$3300.50,114,Elective,2024-07-07,inhaler,Normal
+29,Gary Mitchell,72,Male,A+,Heart Disease,2024-07-10,Dr. Chen,Sunnybrook Hospital,Medicare,$70000.00,511,Emergency,2024-07-30,,Abnormal
+30,Deborah Perez,29,Female,B-,Obesity,2024-07-15,Dr. Lee,toronto general hospital,Aetna,$7800.00,420,Elective,2024-07-17,Lipitor,Inconclusive
+31,Paul Roberts,57,Male,O+,Diabetes,2024-07-20,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$13800.00,213,Urgent,2024-07-28,Metformin,Normal
+32,Carol Turner,66,Female,AB+,Cancer,2024-08-01,Dr. Patel,Sunnybrook Hospital,Cigna,$53000.00,315,Emergency,2024-09-10,Chemotherapy,Abnormal
+33,Kenneth Phillips,49,Male,A-,Asthma,2024-08-05,Dr. Chen,Toronto General Hospital,Medicare,$2700.00,116,Elective,2024-08-07,Inhaler,Normal
+34,Donna Campbell,75,Female,B+,Heart Disease,2024-08-10,Dr. Lee,Mount Sinai Hospital,Aetna,$66000.00,513,,2024-08-30,Aspirin,Abnormal
+35,Ronald Parker,35,Male,O-,Obesity,2024-08-15,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$9400.00,422,Elective,2024-08-17,Lipitor,Normal
+36,Laura Evans,63,Female,AB-,Diabetes,2024-08-20,Dr. Patel,Toronto General Hospital,Cigna,$15000.50,215,Urgent,2024-08-28,Metformin,Inconclusive
+37,Mark Edwards,51,Male,A+,Cancer,2024-09-01,Dr. Chen,Mount Sinai Hospital,Medicare,$47000.00,317,Emergency,2024-10-15,Chemotherapy,Abnormal
+38,Susan Collins,44,Female,B-,Asthma,2024-09-05,Dr. Lee,Sunnybrook Hospital,Aetna,$3500.00,118,Elective,2024-09-07,Inhaler,Normal
+39,Charles Stewart,700,Male,O+,Heart Disease,2024-09-10,Dr. Wilson,Toronto General Hospital,Blue Cross,$73000.00,515,Emergency,2024-10-01,Aspirin,Abnormal
+40,Jessica Sanchez,37,Female,AB+,Obesity,2024-09-15,Dr. Patel,Mount Sinai Hospital,Cigna,$8800.00,424,Elective,2024-09-17,Lipitor,Normal
+41,Thomas Morris,68,Male,A-,Diabetes,2024-09-20,Dr. Chen,Sunnybrook Hospital,Medicare,$14000.00,217,Urgent,2024-09-28,Metformin,Normal
+42,Elizabeth Rogers,53,Female,B+,Cancer,2024-10-01,Dr. Lee,Toronto General Hospital,Aetna,$50000.00,319,Emergency,2024-11-10,Chemotherapy,Abnormal
+43,Joseph Reed,42,Male,O-,Asthma,2024-10-05,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$3000.00,120,Elective,2024-10-07,Inhaler,Normal
+44,Barbara Cook,78,Female,AB-,Heart Disease,2024-10-10,Dr. Patel,Sunnybrook Hospital,Cigna,$71500.00,517,Emergency,2024-11-01,Aspirin,Abnormal
+45,Christopher Morgan,30,Male,A+,Obesity,2024-10-15,Dr. Chen,Toronto General Hospital,Medicare,$8200.00,426,Elective,2024-10-17,Lipitor,Inconclusive
+46,Linda Bell,60,Female,B-,Diabetes,2024-10-20,Dr. Lee,Mount Sinai Hospital,Aetna,$12500.00,219,Urgent,2024-10-28,Metformin,Normal
+47,Andrew Murphy,56,Male,O+,Cancer,2024-11-01,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$46000.00,321,Emergency,2024-12-15,Chemotherapy,Abnormal
+48,Maria Bailey,45,Female,AB+,Asthma,2024-11-05,Dr. Patel,Toronto General Hospital,Cigna,$3200.00,122,Elective,2024-11-07,Inhaler,Normal
+49,William Rivera,74,Male,A-,Heart Disease,2024-11-10,Dr. Chen,Mount Sinai Hospital,Medicare,$68000.00,519,Emergency,2024-12-01,Aspirin,Abnormal
+50,Helen Cooper,32,Female,B+,Obesity,2024-11-15,Dr. Lee,Sunnybrook Hospital,Aetna,$9100.00,428,Elective,2024-11-17,Lipitor,Normal
+51,John Smith,45,Male,A+,Diabetes,2024-01-15,Dr. Wilson,Toronto General Hospital,Blue Cross,$12500.50,201,Emergency,2024-01-22,Metformin,Normal
+52,Sarah Johnson,62,Female,O-,Cancer,2024-01-18,Dr. Patel,Mount Sinai Hospital,Aetna,$45000.00,305,Urgent,2024-02-15,Chemotherapy,Abnormal
+53,Test Patient,99,Unknown,XX,Test,2024-01-01,Test Doctor,Test Hospital,Test Insurance,$0.00,0,Test,2024-01-01,Test,Test
+54,REMOVE THIS,0,N/A,N/A,N/A,2024-01-01,N/A,N/A,N/A,$0.00,0,N/A,2024-01-01,N/A,N/A
+55,Rachel Green,42,Female,A+,Diabetes,2024-12-01,Dr. Wilson,Toronto General Hospital,Blue Cross,$11000.00,221,Urgent,2024-12-08,Metformin,Normal
+56,Ross Geller,38, male,B+,Asthma,2024-12-05,Dr. Lee,MOUNT SINAI HOSPITAL,Cigna,$3400.00,124,Elective,2024-12-07,Inhaler,Normal
+57,Monica Bing,35,Female,O+,Obesity,2024-12-10,Dr. Chen,Sunnybrook Hospital,Aetna,$8700.00,430,Elective,2024-12-12,Lipitor,Normal
+58,Chandler Bing,36,Male,AB-,Heart Disease,2024-12-15,Dr. Patel,Toronto General Hospital,Medicare,$65000.00,521,Emergency,2025-01-05,Aspirin,Abnormal
+59,Joey Tribbiani,34,Male,A+,Obesity,2024-12-20,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$7900.00,432, Elective,2024-12-22,Lipitor,Normal
+60,Phoebe Buffay,33,female,B-,Cancer,2024-12-25,Dr. Patel,sunnybrook Hospital,Cigna,$44000.00,323,Emergency,2025-02-01,Chemotherapy,Abnormal
+61,Alan Harper,59,Male,O+,Diabetes,2024-01-22,Dr. Lee,Toronto General Hospital,Medicare,$13100.00,223,Urgent,2024-01-30,Metformin,Normal
+62,Grace Hopper,64, Female,A+,Cancer,2024-01-25,Dr. Chen,Mount Sinai Hospital,Aetna,$54000.00,325,Emergency,2024-03-05,Chemotherapy,Abnormal
+63,Victor Hugo,70,Male,B-,Heart Disease,2024-02-03,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$69500.00,523,Emergency,2024-02-22,Aspirin,Abnormal
+64,Nina Simone,38,female,AB+,Asthma,2024-02-08,Dr. Patel,toronto general hospital,Cigna,$2950.00,126,Elective,2024-02-10,inhaler,Normal
+65,Oscar Wilde,52,Male,O-,Obesity,2024-02-12,Dr. Lee,Mount Sinai Hospital,Medicare,$9300.00,434,Elective,2024-02-14,Lipitor,Inconclusive
+66,Priya Sharma,44,Female,A-,Diabetes,2024-02-18,Dr. Chen,Sunnybrook Hospital,Aetna,$11500.00,225,Urgent,2024-02-25,Metformin,Normal
+67,Quinn Hughes,31,male,B+,Cancer,2024-02-22,Dr. Wilson,Toronto General Hospital,Blue Cross,$47500.00,327,Emergency,2024-04-01,Chemotherapy,Abnormal
+68,Rita Moreno,76,Female,O+,Heart Disease,2024-03-04,Dr. Patel,Mount Sinai Hospital,Cigna,$72000.00,525,Emergency,2024-03-25,Aspirin,Abnormal
+69,Samuel Jackson,48,Male,AB-,Asthma,2024-03-08,Dr. Lee,SUNNYBROOK HOSPITAL,Medicare,$3150.00,128,Elective,2024-03-10,Inhaler,normal
+70,Tina Turner,55,Female,A+,Obesity,2024-03-14,Dr. Chen,Toronto General Hospital,Aetna,$8600.00,436,Elective,2024-03-16,Lipitor,Normal
+71,Uma Thurman,41,Female,B-,Diabetes,2024-03-18,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$12800.00,227,Urgent,2024-03-26,Metformin,Normal
+72,Vince Vaughn,47,Male,O-,Cancer,2024-03-25,Dr. Patel,Sunnybrook Hospital,Cigna,$50500.00,329,Emergency,2024-05-05,Chemotherapy,ABNORMAL
+73,Wendy Williams,63,Female,AB+,Heart Disease,2024/04/02,Dr. Lee,Toronto General Hospital,Medicare,$67500.00,527,Emergency,2024/04/22,Aspirin,Abnormal
+74,Xavier Lopez,29,Male,A-,Asthma,2024-04-07,Dr. Chen,Mount Sinai Hospital,Aetna,$2850.00,130,Elective,2024-04-09,Inhaler,Normal
+75,Yolanda Adams,58,Female,B+,Obesity,2024-04-12,Dr. Wilson,sunnybrook hospital,Blue Cross,$9600.00,438, Elective,2024-04-14,Lipitor,Inconclusive
+76,Zach Morris,33,male,O+,Diabetes,2024-04-18,Dr. Patel,Toronto General Hospital,Cigna,$10900.00,229,Urgent,2024-04-25,Metformin,Normal
+77,Alice Walker,71,Female,AB-,Cancer,2024-04-23,Dr. Lee,Mount Sinai Hospital,Medicare,$55000.00,331,Emergency,2024-06-01,Chemotherapy,Abnormal
+78,,66,Male,A+,Heart Disease,2024-04-28,Dr. Chen,Sunnybrook Hospital,Aetna,$70500.00,529,Emergency,2024-05-18,Aspirin,Abnormal
+79,Cathy Freeman,39,Female,B-,Asthma,2024-05-03,Dr. Wilson,Toronto General Hospital,Blue Cross,$3050.00,132,Elective,2024-05-05,inhaler,Normal
+80,Derek Jeter,54,Male,O-,Obesity,2024-05-08,Dr. Patel,Mount Sinai Hospital,Cigna,$8400.00,440,Elective,2024-05-10,Lipitor,Normal
+81,Eva Longoria,46,Female,AB+,Diabetes,2024-05-14,Dr. Lee,Sunnybrook Hospital,Medicare,$13500.00,231,Urgent,2024-05-22,Metformin,Normal
+82,Frank Sinatra,79,Male,A-,Cancer,2024-05-19,Dr. Chen,toronto general hospital,Aetna,$56000.00,333,Emergency,2024-07-01,Chemotherapy,Abnormal
+83,Gina Rodriguez,35,Female,B+,Heart Disease,2024-05-24,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$64000.00,531,Emergency,2024-06-14,Aspirin,Abnormal
+84,Harry Potter,27,male,O+,Asthma,2024-05-29,Dr. Patel,Sunnybrook Hospital,Cigna,$2750.00,134,Elective,2024-05-31,Inhaler,Normal
+85,Irene Adler,50,Female,AB-,Obesity,2024-06-03,Dr. Lee,Toronto General Hospital,Medicare,$9800.00,442,Elective,2024-06-05,Lipitor,Inconclusive
+86,Jack Ryan,61,Male,A+,Diabetes,2024-06-08,Dr. Chen,Mount Sinai Hospital,Aetna,$14200.00,233,Urgent,2024-06-16,Metformin,Normal
+87,Kelly Kapoor,37,Female,B-,Cancer,2024-06-13,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$48500.00,335,Emergency,2024-07-25,Chemotherapy,Abnormal
+88,Leo Messi,36,Male,O-,Heart Disease,2024-06-18,Dr. Patel,Toronto General Hospital,Cigna,$66500.00,533,Emergency,2024-07-08,Aspirin,Abnormal
+89,Maya Angelou,74,Female,AB+,Asthma,2024-06-23,Dr. Lee,MOUNT SINAI HOSPITAL,Medicare,$3350.00,136,Elective,2024-06-25,Inhaler,Normal
+90,Nate Robinson,42,Male,A-,Obesity,2024-06-28,Dr. Chen,Sunnybrook Hospital,Aetna,$8100.00,444,Elective,2024-06-30,Lipitor,Normal
+91,Olivia Pope,53,Female,B+,Diabetes,2024-07-04,Dr. Wilson,Toronto General Hospital,Blue Cross,$12900.00,235,Urgent,2024-07-12,Metformin,Normal
+92,Peter Parker,25,male,O+,Cancer,2024-07-09,Dr. Patel,Mount Sinai Hospital,Cigna,$43000.00,337,Emergency,2024-08-20,Chemotherapy,Abnormal
+93,Queen Latifah,54,Female,AB-,Heart Disease,2024-07-14,Dr. Lee,Sunnybrook Hospital,Medicare,$71000.00,535,Emergency,2024-08-04,Aspirin,ABNORMAL
+94,Ray Charles,68,Male,A+,Asthma,2024-07-19,Dr. Chen,toronto general hospital,Aetna,$3200.00,138,Elective,2024-07-21,inhaler,Normal
+95,Stella McCartney,48, Female,B-,Obesity,2024-07-24,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$9500.00,446,Elective,2024-07-26,Lipitor,Inconclusive
+96,Tony Stark,45,Male,O-,Diabetes,2024-07-29,Dr. Patel,Sunnybrook Hospital,Cigna,$11200.00,237,Urgent,2024-08-06,Metformin,Normal
+97,Ursula Burns,57,Female,AB+,Cancer,2024-08-04,Dr. Lee,Toronto General Hospital,Medicare,$52000.00,339,Emergency,2024-09-15,Chemotherapy,Abnormal
+98,Vito Corleone,73,Male,A-,Heart Disease,2024-08-09,Dr. Chen,Mount Sinai Hospital,Aetna,$74000.00,537,Emergency,2024-08-30,Aspirin,Abnormal
+99,Wanda Maximoff,32,Female,B+,Asthma,2024-08-14,Dr. Wilson,SUNNYBROOK HOSPITAL,Blue Cross,$2900.00,140,Elective,2024-08-16,Inhaler,Normal
+100,Xena Warrior,40,Female,O+,Obesity,2024-08-19,Dr. Patel,Toronto General Hospital,Cigna,$8900.00,448,Elective,2024-08-21,Lipitor,Normal
+101,Yusuf Ali,65,Male,AB-,Diabetes,2024-08-24,Dr. Lee,Mount Sinai Hospital,Medicare,$15500.00,239,Urgent,2024-09-01,Metformin,Inconclusive
+102,Zara Phillips,43,Female,A+,Cancer,2024-08-29,Dr. Chen,Sunnybrook Hospital,Aetna,$49000.00,341,Emergency,2024-10-10,Chemotherapy,Abnormal
+103,Adam Sandler,56,Male,B-,Heart Disease,2024-09-03,Dr. Wilson,Toronto General Hospital,Blue Cross,$68000.00,539,Emergency,2024-09-24,Aspirin,Abnormal
+104,Bella Swan,22,female,O-,Asthma,2024-09-08,Dr. Patel,Mount Sinai Hospital,Cigna,$2650.00,142,Elective,2024-09-10,Inhaler,Normal
+105,Clark Kent,34,Male,AB+,Obesity,2024-09-13,Dr. Lee,sunnybrook hospital,Medicare,$8300.00,450,Elective,2024-09-15,Lipitor,Normal
+106,Diana Prince,30,Female,A-,Diabetes,2024-09-18,Dr. Chen,Toronto General Hospital,Aetna,$10800.00,241,Urgent,2024-09-26,Metformin,Normal
+107,Elon Musk,53,male,B+,Cancer,2024-09-23,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$51000.00,343,Emergency,2024-11-01,Chemotherapy,Abnormal
+108,Frida Kahlo,47,Female,O+,Heart Disease,2024-09-28,Dr. Patel,Sunnybrook Hospital,Cigna,$63000.00,541,Emergency,2024-10-18,Aspirin,Abnormal
+109,Gordon Ramsay,57,Male,AB-,Asthma,2024/10/03,Dr. Lee,TORONTO GENERAL HOSPITAL,Medicare,$3450.00,144,Elective,2024/10/05,Inhaler,normal
+110,Hannah Montana,19,Female,A+,Obesity,2024-10-08,Dr. Chen,Mount Sinai Hospital,Aetna,$7200.00,452,Elective,2024-10-10,Lipitor,Normal
+111,Ivan Drago,44,Male,B-,Diabetes,2024-10-13,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$11600.00,243,Urgent,2024-10-21,Metformin,Normal
+112,Julia Roberts,56,Female,O-,Cancer,2024-10-18,Dr. Patel,Toronto General Hospital,Cigna,$54000.00,345,Emergency,2024-11-28,Chemotherapy,ABNORMAL
+113,Kevin Hart,44,Male,AB+,Heart Disease,2024-10-23,Dr. Lee,Mount Sinai Hospital,Medicare,$67000.00,543,Emergency,2024-11-13,Aspirin,Abnormal
+114,Lara Croft,33,Female,A-,Asthma,2024-10-28,Dr. Chen,sunnybrook hospital,Aetna,$3100.00,146,Elective,2024-10-30,inhaler,Normal
+115,Michael Scott,46,Male,B+,Obesity,2024-11-02,Dr. Wilson,Toronto General Hospital,Blue Cross,$9200.00,454, Elective,2024-11-04,Lipitor,Inconclusive
+116,,52,Female,O+,Diabetes,2024-11-07,Dr. Patel,Mount Sinai Hospital,Cigna,$13000.00,245,Urgent,2024-11-15,Metformin,Normal
+117,Nathan Drake,38,Male,AB-,Cancer,2024-11-12,Dr. Lee,Sunnybrook Hospital,Medicare,$46000.00,347,Emergency,2024-12-22,Chemotherapy,Abnormal
+118,Oprah Winfrey,70,Female,A+,Heart Disease,2024-11-17,Dr. Chen,Toronto General Hospital,Aetna,$75000.00,545,Emergency,2024-12-08,Aspirin,Abnormal
+119,Phil Collins,73,Male,B-,Asthma,2024-11-22,Dr. Wilson,MOUNT SINAI HOSPITAL,Blue Cross,$3600.00,148,Elective,2024-11-24,Inhaler,Normal
+120,Quinn Fabray,28, Female,O-,Obesity,2024-11-27,Dr. Patel,Sunnybrook Hospital,Cigna,$7900.00,456,Elective,2024-11-29,Lipitor,Normal
+121,Ralph Lauren,81,Male,AB+,Diabetes,2024-12-02,Dr. Lee,Toronto General Hospital,Medicare,$16000.00,247,Urgent,2024-12-10,Metformin,Normal
+122,Serena Williams,42,Female,A-,Cancer,2024-12-07,Dr. Chen,Mount Sinai Hospital,Aetna,$57000.00,349,Emergency,2025-01-18,Chemotherapy,Abnormal
+123,Tom Hanks,67,Male,B+,Heart Disease,2024-12-12,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$69000.00,547,Emergency,2025-01-02,Aspirin,Abnormal
+124,Usain Bolt,37,male,O+,Asthma,2024-12-17,Dr. Patel,toronto general hospital,Cigna,$2800.00,150,Elective,2024-12-19,Inhaler,Normal
+125,Viola Davis,58,Female,AB-,Obesity,2024-12-22,Dr. Lee,Mount Sinai Hospital,Medicare,$9700.00,458,Elective,2024-12-24,Lipitor,Inconclusive
+126,Walter White,52,Male,A+,Cancer,2024-01-05,Dr. Chen,Sunnybrook Hospital,Aetna,$48000.00,351,Emergency,2024-02-15,Chemotherapy,Abnormal
+127,Xiomara Reyes,39,Female,B-,Diabetes,2024-01-10,Dr. Wilson,Toronto General Hospital,Blue Cross,$11200.00,249,Urgent,2024-01-18,Metformin,Normal
+128,Yogi Bear,-5,Male,O+,Heart Disease,2024-01-15,Dr. Patel,Mount Sinai Hospital,Cigna,$62000.00,549,Emergency,2024-02-05,Aspirin,Abnormal
+129,Zelda Link,26,female,AB+,Asthma,2024-01-20,Dr. Lee,SUNNYBROOK HOSPITAL,Medicare,$2700.00,152,Elective,2024-01-22,inhaler,Normal
+130,Aaron Judge,31,Male,A-,Obesity,2024-01-25,Dr. Chen,Toronto General Hospital,Aetna,$8800.00,460,Elective,2024-01-27,Lipitor,Normal
+131,Beyonce Knowles,42,Female,B+,Cancer,2024-02-05,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$53000.00,353,Emergency,2024-03-18,Chemotherapy,Abnormal
+132,Cristiano Ronaldo,39,Male,O-,Heart Disease,2024-02-10,Dr. Patel,Sunnybrook Hospital,Cigna,$71000.00,551,Emergency,2024-03-02,Aspirin,ABNORMAL
+133,Drake Graham,37, Male,AB-,Asthma,2024-02-15,Dr. Lee,toronto general hospital,Medicare,$3250.00,154,Elective,2024-02-17,Inhaler,Normal
+134,Emma Watson,34,Female,A+,Obesity,2024-02-20,Dr. Chen,Mount Sinai Hospital,Aetna,$8500.00,462,Elective,2024-02-22,Lipitor,Normal
+135,Fernando Torres,40,Male,B-,Diabetes,2024-02-25,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$12300.00,251,Urgent,2024-03-05,Metformin,Inconclusive
+136,Gigi Hadid,29,Female,O+,Cancer,2024/03/02,Dr. Patel,Toronto General Hospital,Cigna,$44000.00,355,Emergency,2024/04/12,Chemotherapy,Abnormal
+137,Hugh Jackman,55,Male,AB+,Heart Disease,2024-03-07,Dr. Lee,Mount Sinai Hospital,Medicare,$66000.00,553,Emergency,2024-03-28,Aspirin,Abnormal
+138,Iris West,31,Female,A-,Asthma,2024-03-12,Dr. Chen,SUNNYBROOK HOSPITAL,Aetna,$2950.00,156,Elective,2024-03-14,Inhaler,Normal
+139,James Bond,45,male,B+,Obesity,2024-03-17,Dr. Wilson,Toronto General Hospital,Blue Cross,$9100.00,464,Elective,2024-03-19,Lipitor,Normal
+140,Kylie Jenner,26,Female,O-,Diabetes,2024-03-22,Dr. Patel,Mount Sinai Hospital,Cigna,$10500.00,253,Urgent,2024-03-30,Metformin,Normal
+141,Larry David,76,Male,AB-,Cancer,2024-03-27,Dr. Lee,Sunnybrook Hospital,Medicare,$55000.00,357,Emergency,2024-05-08,Chemotherapy,Abnormal
+142,Megan Fox,38,Female,A+,Heart Disease,2024-04-02,Dr. Chen,toronto general hospital,Aetna,$63000.00,555,Emergency,2024-04-22,Aspirin,Abnormal
+143,Naomi Campbell,54, Female,B-,Asthma,2024-04-07,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$3400.00,158,Elective,2024-04-09,inhaler,normal
+144,Omar Sharif,83,Male,O+,Obesity,2024-04-12,Dr. Patel,Sunnybrook Hospital,Cigna,$9900.00,466,Elective,2024-04-14,Lipitor,Normal
+145,Pink Floyd,51,Male,AB+,Diabetes,2024-04-17,Dr. Lee,Toronto General Hospital,Medicare,$14800.00,255,Urgent,2024-04-25,Metformin,Normal
+146,TEST RECORD,0,Unknown,XX,Test Condition,2024-01-01,Test Doctor,Test Hospital,Test Ins,$0.00,0,Test,2024-01-01,Test Med,Test
+147,DUMMY DATA,999,N/A,N/A,REMOVE,2024-01-01,REMOVE,REMOVE,REMOVE,$0.00,0,REMOVE,2024-01-01,REMOVE,REMOVE
+148,Rosa Parks,66,Female,A-,Cancer,2024-04-22,Dr. Chen,Mount Sinai Hospital,Aetna,$52000.00,359,Emergency,2024-06-02,Chemotherapy,Abnormal
+149,Steve Rogers,35,Male,B+,Heart Disease,2024-04-27,Dr. Wilson,SUNNYBROOK HOSPITAL,Blue Cross,$64000.00,557,Emergency,2024-05-17,Aspirin,Abnormal
+150,Taylor Swift,34,Female,O-,Asthma,2024-05-02,Dr. Patel,Toronto General Hospital,Cigna,$2850.00,160,Elective,2024-05-04,Inhaler,Normal
+151,Ulysses Grant,62,Male,AB-,Obesity,2024-05-07,Dr. Lee,Mount Sinai Hospital,Medicare,$9400.00,468,Elective,2024-05-09,Lipitor,Inconclusive
+152,Venus Williams,43,Female,A+,Diabetes,2024-05-12,Dr. Chen,Sunnybrook Hospital,Aetna,$13200.00,257,Urgent,2024-05-20,Metformin,Normal
+153,Wayne Gretzky,63,Male,B-,Cancer,2024-05-17,Dr. Wilson,toronto general hospital,Blue Cross,$49000.00,361,Emergency,2024-06-28,Chemotherapy,Abnormal
+154,Xander Cage,40,male,O+,Heart Disease,2024-05-22,Dr. Patel,Mount Sinai Hospital,Cigna,$67000.00,559,Emergency,2024-06-12,Aspirin,Abnormal
+155,Yara Shahidi,24,Female,AB+,Asthma,2024-05-27,Dr. Lee,SUNNYBROOK HOSPITAL,Medicare,$2650.00,162,Elective,2024-05-29,Inhaler,Normal
+156,Zendaya Coleman,27,Female,A-,Obesity,2024-06-01,Dr. Chen,Toronto General Hospital,Aetna,$8200.00,470,Elective,2024-06-03,Lipitor,Normal
+157,Albert Einstein,76,Male,B+,Diabetes,2024-06-06,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$15200.00,259,Urgent,2024-06-14,Metformin,Normal
+158,Bruce Wayne,35,male,O-,Cancer,2024-06-11,Dr. Patel,Sunnybrook Hospital,Cigna,$47000.00,363,Emergency,2024-07-22,Chemotherapy,ABNORMAL
+159,Catherine Zeta,54,Female,AB-,Heart Disease,2024/06/16,Dr. Lee,Toronto General Hospital,Medicare,$72000.00,561,Emergency,2024/07/07,Aspirin,Abnormal
+160,Dennis Rodman,63,Male,A+,Asthma,2024-06-21,Dr. Chen,MOUNT SINAI HOSPITAL,Aetna,$3550.00,164,Elective,2024-06-23,inhaler,Normal
+161,Elsa Frozen,28,Female,B-,Obesity,2024-06-26,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$7800.00,472, Elective,2024-06-28,Lipitor,Normal
+162,Freddie Mercury,45,Male,O+,Diabetes,2024-07-02,Dr. Patel,Toronto General Hospital,Cigna,$11900.00,261,Urgent,2024-07-10,Metformin,Inconclusive
+163,Grace Kelly,52,Female,AB+,Cancer,2024-07-07,Dr. Lee,Mount Sinai Hospital,Medicare,$50000.00,365,Emergency,2024-08-18,Chemotherapy,Abnormal
+164,Homer Simpson,39,Male,A-,Heart Disease,2024-07-12,Dr. Chen,sunnybrook hospital,Aetna,$65000.00,563,Emergency,2024-08-02,Aspirin,Abnormal
+165,Indira Gandhi,66, Female,B+,Asthma,2024-07-17,Dr. Wilson,Toronto General Hospital,Blue Cross,$3100.00,166,Elective,2024-07-19,Inhaler,Normal
+166,Jeff Bezos,60,Male,O-,Obesity,2024-07-22,Dr. Patel,Mount Sinai Hospital,Cigna,$9600.00,474,Elective,2024-07-24,Lipitor,Normal
+167,Kate Middleton,42,Female,AB-,Diabetes,2024-07-27,Dr. Lee,Sunnybrook Hospital,Medicare,$14000.00,263,Urgent,2024-08-04,Metformin,Normal
+168,Luke Skywalker,30,Male,A+,Cancer,2024-08-02,Dr. Chen,toronto general hospital,Aetna,$45000.00,367,Emergency,2024-09-12,Chemotherapy,Abnormal
+169,Marie Curie,66,Female,B-,Heart Disease,2024-08-07,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$70000.00,565,Emergency,2024-08-28,Aspirin,Abnormal
+170,Nick Fury,58,male,O+,Asthma,2024-08-12,Dr. Patel,SUNNYBROOK HOSPITAL,Cigna,$3300.00,168,Elective,2024-08-14,Inhaler,normal
+171,Olivia Rodrigo,21,Female,AB+,Obesity,2024-08-17,Dr. Lee,Toronto General Hospital,Medicare,$7500.00,476,Elective,2024-08-19,Lipitor,Normal
+172,Pablo Picasso,91,Male,A-,Diabetes,2024-08-22,Dr. Chen,Mount Sinai Hospital,Aetna,$16500.00,265,Urgent,2024-08-30,Metformin,Normal
+173,Quincy Jones,500,Male,B+,Cancer,2024-08-27,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$58000.00,369,Emergency,2024-10-08,Chemotherapy,Abnormal
+174,Rihanna Fenty,36,Female,O-,Heart Disease,2024-09-01,Dr. Patel,Toronto General Hospital,Cigna,$63000.00,567,Emergency,2024-09-22,Aspirin,Abnormal
+175,Shaq ONeal,52,Male,AB-,Asthma,2024-09-06,Dr. Lee,MOUNT SINAI HOSPITAL,Medicare,$3750.00,170,Elective,2024-09-08,Inhaler,Normal
+176,Tina Fey,54, Female,A+,Obesity,2024-09-11,Dr. Chen,sunnybrook hospital,Aetna,$9100.00,478,Elective,2024-09-13,Lipitor,Inconclusive
+177,Usher Raymond,45,Male,B-,Diabetes,2024-09-16,Dr. Wilson,Toronto General Hospital,Blue Cross,$12700.00,267,Urgent,2024-09-24,Metformin,Normal
+178,Vera Wang,74,Female,O+,Cancer,2024-09-21,Dr. Patel,Mount Sinai Hospital,Cigna,$54000.00,371,Emergency,2024-11-01,Chemotherapy,Abnormal
+179,Will Smith,55,Male,AB+,Heart Disease,2024-09-26,Dr. Lee,Sunnybrook Hospital,Medicare,$69500.00,569,Emergency,2024-10-17,Aspirin,ABNORMAL
+180,Ximena Sarinana,38,Female,A-,Asthma,2024-10-01,Dr. Chen,TORONTO GENERAL HOSPITAL,Aetna,$2900.00,172,Elective,2024-10-03,inhaler,Normal
+181,Yasmin Ali,44,female,B+,Obesity,2024-10-06,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$8600.00,480,Elective,2024-10-08,Lipitor,Normal
+182,Zack Morris,33,Male,O-,Diabetes,2024-10-11,Dr. Patel,Sunnybrook Hospital,Cigna,$11400.00,269,Urgent,2024-10-19,Metformin,Normal
+183,Anna Karenina,30,Female,AB-,Cancer,2024-10-16,Dr. Lee,Toronto General Hospital,Medicare,$46000.00,373,Emergency,2024-11-26,Chemotherapy,Abnormal
+184,Bruce Banner,45,male,A+,Heart Disease,2024-10-21,Dr. Chen,Mount Sinai Hospital,Aetna,$66000.00,571,Emergency,2024-11-11,Aspirin,Abnormal
+185,Carmen Sandiego,35,Female,B-,Asthma,2024-10-26,Dr. Wilson,sunnybrook hospital,Blue Cross,$3050.00,174,Elective,2024-10-28,Inhaler,Normal
+186,Daisy Ridley,32,Female,O+,Obesity,2024-10-31,Dr. Patel,Toronto General Hospital,Cigna,$8400.00,482,Elective,2024-11-02,Lipitor,Normal
+187,Elvis Presley,42,Male,AB+,Diabetes,2024-11-05,Dr. Lee,Mount Sinai Hospital,Medicare,$13600.00,271,Urgent,2024-11-13,Metformin,Inconclusive
+188,Fiona Apple,46,Female,A-,Cancer,2024-11-10,Dr. Chen,Sunnybrook Hospital,Aetna,$49500.00,375,Emergency,2024-12-20,Chemotherapy,Abnormal
+189,,59,Male,B+,Heart Disease,2024-11-15,Dr. Wilson,TORONTO GENERAL HOSPITAL,Blue Cross,$72000.00,573,Emergency,2024-12-06,Aspirin,Abnormal
+190,Halle Berry,57,Female,O-,Asthma,2024-11-20,Dr. Patel,Mount Sinai Hospital,Cigna,$3200.00,176,Elective,2024-11-22,Inhaler,Normal
+191,Isaac Newton,84,Male,AB-,Obesity,2024-11-25,Dr. Lee,Sunnybrook Hospital,Medicare,$10200.00,484,Elective,2024-11-27,Lipitor,Normal
+192,Janet Jackson,58,Female,A+,Diabetes,2024-11-30,Dr. Chen,Toronto General Hospital,Aetna,$14500.00,273,Urgent,2024-12-08,Metformin,Normal
+193,Kanye West,47,male,B-,Cancer,2024-12-05,Dr. Wilson,Mount Sinai Hospital,Blue Cross,$51000.00,377,Emergency,2025-01-15,Chemotherapy,Abnormal
+194,Lana Del Rey,39,Female,O+,Heart Disease,2024-12-10,Dr. Patel,SUNNYBROOK HOSPITAL,Cigna,$64000.00,575,Emergency,2024-12-31,Aspirin,Abnormal
+195,Morgan Freeman,87,Male,AB+,Asthma,2024-12-15,Dr. Lee,toronto general hospital,Medicare,$3900.00,178,Elective,2024-12-17,inhaler,Normal
+196,Natalie Portman,43,Female,A-,Obesity,2024-12-20,Dr. Chen,Mount Sinai Hospital,Aetna,$8900.00,486,Elective,2024-12-22,Lipitor,Normal
+197,John Smith,45,Male,A+,Diabetes,2024-01-15,Dr. Wilson,Toronto General Hospital,Blue Cross,$12500.50,201,Emergency,2024-01-22,Metformin,Normal
+198,Sarah Johnson,62,Female,O-,Cancer,2024-01-18,Dr. Patel,Mount Sinai Hospital,Aetna,$45000.00,305,Urgent,2024-02-15,Chemotherapy,Abnormal
+199,Mike Brown,,Male,B+,Asthma,2024-02-01,Dr. Lee,Toronto General Hospital,Cigna,$3200.75,102,Elective,2024-02-03,Inhaler,Normal
+200,Emily Davis,34,female,AB-,Obesity,2024-02-10,Dr. Wilson,Sunnybrook Hospital,Blue Cross,$8900.00,410,Elective,2024-02-12,Lipitor,Inconclusive
